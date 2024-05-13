@@ -1,0 +1,5 @@
+Email,Password,Status
+admin\gmail.com,admin1234,OK
+,,OK
+admin@gmail.com,admin,OK
+admin@gmail.com,admin1234,OK
